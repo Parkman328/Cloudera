@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Using Cloudera Docker to Test Kerberos](README.md)
 
